@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loading Experiment - Collections</title>
+    <!-- Link to external stylesheet -->
+    <link rel="stylesheet" href="styles.css">
+    <!-- Link to external JavaScript file -->
+    <script src="scripts.js" defer></script>
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="collections.html">Collections</a></li>
+            <li><a href="shop.html">Shop</a></li>
+            <li><a href="community.html">Community</a></li>
+        </ul>
+    </nav>
+
+    <!-- Collections Section -->
+    <section id="collections">
+        <h2>Our Collections</h2>
+        <p>Explore our current and past clothing collections with detailed descriptions and high-quality images.</p>
+        <!-- Example product listing -->
+        <div class="collection-item">
+            <img src="path/to/collection-image.jpg" alt="Collection Image">
+            <h3>Collection Name</h3>
+            <p>Description of the collection.</p>
+            <button onclick="showPopup('More about Collection Name')">Learn More</button>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Loading Experiment. All rights reserved.</p>
+        <p>Contact us at info@loadingexperiment.com</p>
+    </footer>
+
+    <!-- Popup Modal -->
+    <div id="popup" class="popup">
+        <div class="popup-content">
+            <span class="close" onclick="closePopup()">&times;</span>
+            <p id="popup-message"></p>
+        </div>
+    </div>
+</body>
+</html>
