@@ -38,6 +38,63 @@ nav ul li a:hover {
     text-decoration: underline;
 }
 
+/* Hero Section styling */
+#hero {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    padding: 100px 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+/* Hero section background image styling */
+#hero {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    padding: 100px 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+/* About Us image styling */
+.about-image {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+/* Community page image styling */
+.community-image {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+/* Collection item images styling */
+.collection-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+/* General image styling for better consistency */
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+
 /* Section styling */
 section {
     padding: 20px;
