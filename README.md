@@ -2,7 +2,7 @@
 
 Loading Experiment Website - README
 Project Overview
-This project is a website for the high-end streetwear brand Loading Experiment. The website is designed to be user-friendly, visually appealing, and easy to navigate. The interface is self-explaining, ensuring that visitors can effortlessly find the information they need and enjoy a seamless experience.
+This project is a website for my streetwear brand Loading Experiment. The website is designed to be user-friendly, visually appealing, and easy to navigate. The interface is self-explaining, ensuring that visitors can effortlessly find the information they need and enjoy a seamless experience.
 
 File Descriptions
 1. index.html - Home Page
